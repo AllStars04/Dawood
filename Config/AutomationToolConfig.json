@@ -1,0 +1,78 @@
+{
+  "tool": {
+    "browserType": "chrome",
+    "timeout": 30,
+    "loglevel": "ERROR",
+    "configfile":"json",
+    "reporttype":"ALL"
+  },
+
+  "button":{
+    "locator":"css,tag_name",
+    "locatorvalue":"input,a"
+  },
+  "menu":{
+    "locator":"tag_name",
+    "locatorvalue":"a"
+  },
+  "submenu": {
+    "locator": "tag_name",
+    "locatorvalue": "a"
+  },
+  "text": {
+    "locator": "tag_name",
+    "locatorvalue": "label"
+  },
+  "dropdown": {
+    "locator": "tag_name",
+    "locatorvalue": "label"
+  },
+  "link": {
+    "locator": "tag_name,tag_name,tag_name",
+    "locatorvalue": "a,span,p"
+  },
+    "expandlink": {
+    "locator": "tag_name,tag_name,tag_name",
+    "locatorvalue": "strong,span,p"
+  },
+  "image": {
+    "locator": "tag_name",
+    "locatorvalue": "img"
+  },
+  "textarea": {
+    "locator": "tag_name",
+    "locatorvalue": "label"
+  },
+  "radiobutton":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
+  },
+  "statictext":{
+    "locator": "tag_name,tag_name,tag_name",
+    "locatorvalue":"div,label,strong"
+  },
+  "input":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
+  },
+  "list":{
+    "locator": "tag_name",
+    "locatorvalue":"li"
+  },
+   "date":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
+  },
+  "checkbox":{
+    "locator": "tag_name",
+    "locatorvalue":"label"
+  },
+    "tab":{
+    "locator": "tag_name",
+    "locatorvalue":"a"
+  },
+   "table":{
+  "locator": "tag_name",
+  "locatorvalue":"td"
+}
+}

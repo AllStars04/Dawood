@@ -1,0 +1,105 @@
+{
+  "mobile1": {
+    "platformName": "Android",
+    "platformVersion": "4.4.4",
+    "deviceName": "Arun (Galaxy E7)"
+  },
+
+  "mobile2": {
+    "platformName": "Android",
+    "platformVersion": "4.4.2",
+    "deviceName": "ALCATEL ONETOUCH PIXI 3 (3.5)"
+
+
+  },
+
+  "mobileD": {
+    "platformName": "Android",
+    "platformVersion": "7.0",
+    "deviceName": "Galaxy S6 edge"
+
+   },
+  "mobile3": {
+    "platformName": "Android",
+    "platformVersion": "6.0",
+    "deviceName": "Alcatel Pixi 4 (4)"
+  },
+
+  "youtube": {
+    "appPackage": "com.google.android.youtube",
+    "appActivity": "com.google.android.apps.youtube.app.WatchWhileActivity"
+  },
+
+   "message": {
+    "appPackage": "com.android.mms",
+    "appActivity": "com.android.mms.ui.ConversationList"
+  },
+
+   "PhoneDialer": {
+    "appPackage": "com.android.dialer",
+    "appActivity": "com.android.dialer.DialtactsActivity"
+  },
+
+   "APNsettings": {
+    "appPackage": "com.android.settings",
+    "appActivity": "com.android.settings.ApnSettings"
+  },
+
+    "MobileNetworkSettings": {
+    "appPackage": "com.android.phone",
+    "appActivity": "com.android.phone.MobileNetworkSettings"
+  },
+
+
+  "icon":{
+    "locator":"class_name,class_name",
+    "locatorvalue":"android.widget.TextView,android.widget.ImageView"
+  },
+
+  "mobileLink":{
+    "locator":"class_name",
+    "locatorvalue":"android.widget.TextView"
+  },
+
+   "label":{
+    "locator":"class_name",
+    "locatorvalue":"android.widget.TextView"
+  },
+
+    "textField":{
+    "locator":"class_name",
+    "locatorvalue":"android.widget.EditText"
+  },
+
+  "textoption":{
+    "locator":"class_name",
+    "locatorvalue":"android.widget.TextView"
+  },
+
+  "radiobuttonlist":{
+    "locator":"xpath",
+    "locatorvalue":".//android.widget.ListView//android.widget.LinearLayout"
+  },
+
+  "button":{
+    "locator":"class_name",
+    "locatorvalue":"android.widget.Button"
+  },
+
+  "radiooption":{
+    "locator":"class_name",
+    "locatorvalue":"android.widget.CheckedTextView"
+  },
+
+  "messagebox":{
+    "locator":"id",
+    "locatorvalue":"com.android.mms:id/mms_layout_view_parent"
+  },
+
+  "firstmessage":{
+    "locator":"xpath",
+    "locatorvalue":".//android.widget.ListView//android.widget.RelativeLayout"
+  }
+
+
+}

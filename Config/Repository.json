@@ -1,0 +1,16 @@
+{
+    "text": {
+       "MSISDN": {
+          "locator": "name",
+          "locatorvalue": "condition.msisdn"
+        }
+      },
+    "tab": {
+       "Device_Tools": {
+          "locator": "id",
+          "locatorvalue": "__ns2036994902_tab_Tools"
+        }
+      }
+  }
+
+

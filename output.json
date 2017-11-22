@@ -1,0 +1,1021 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\GHRLTemplates.feature:4",
+      "name": "GHRL Template _ Platform User_Overview Page - Search GHRL Template",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\GHRLTemplates.feature:6",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\GHRLTemplates.feature:7",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\GHRLTemplates.feature:8",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:9",
+          "name": "click on link \"PPVGE as Operator Administrator\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:10",
+          "name": "click on link \"Platform as Platform Support & IITC\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:12",
+          "name": "click on link \"Administration\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:13",
+          "name": "click on link \"GHLR templates\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\GHRLTemplates.feature:14",
+          "name": "text \"GHLR templates\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:15",
+          "name": "click on link \"Clear fields\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:17",
+          "name": "click on button \"Search\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\GHRLTemplates.feature:18",
+          "name": "text \"matching result\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:19",
+          "name": "report info \"SUCCESS: GHLR Template results are displayed\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:21",
+          "name": "enter text for \"GHLRtemp\" with value \"+**+\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:22",
+          "name": "click on button \"Search\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\GHRLTemplates.feature:23",
+          "name": "text \"Please enter only alphabetical characters, numbers and/or _-\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:24",
+          "name": "report info \"SUCCESS: Not possible to search for GHLR Template with invalid values \"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\GHRLTemplates.feature:25",
+          "name": "logout and close the browser",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "TC_SearchGHRLTemp"
+      ],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\GHRLTemplates.feature:1",
+  "name": "GHRL Templates",
+  "status": "skipped",
+  "tags": []
+},
+
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\ProvisionningProfiles.feature:4",
+      "name": "Edit Provisitiong Profiles with Valid Data And exist APN - Operator group User",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\ProvisionningProfiles.feature:6",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\ProvisionningProfiles.feature:7",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ProvisionningProfiles.feature:8",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:10",
+          "name": "click on link \"Administration\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:11",
+          "name": "click on link \"Provisioning profiles\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ProvisionningProfiles.feature:12",
+          "name": "text \"Provisioning profiles\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:13",
+          "name": "enter text for \"Provisioning profile\" with value \"autotest2\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:14",
+          "name": "click on button \"Search\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ProvisionningProfiles.feature:15",
+          "name": "text \"matching result\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:17",
+          "name": "click on link \"Autotest2\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ProvisionningProfiles.feature:18",
+          "name": "text \"Configuration\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:19",
+          "name": "click on button \"ConfigEdit\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:21",
+          "name": "select drop down \"APN\" with option \"apn1\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:22",
+          "name": "click on button \"Save\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ProvisionningProfiles.feature:23",
+          "name": "text \"Settings successfully updated\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:24",
+          "name": "report info \"SUCCESS : Operator is able to edit the APN for Provisitiong Profiles\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:26",
+          "name": "click on button \"ConfigEdit\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:27",
+          "name": "select drop down \"APN\" with option \"centraltest\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:28",
+          "name": "click on button \"Save\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ProvisionningProfiles.feature:29",
+          "name": "text \"Settings successfully updated\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ProvisionningProfiles.feature:30",
+          "name": "logout and close the browser",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "TC_EditAPNForAnyPP"
+      ],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\ProvisionningProfiles.feature:1",
+  "name": "Provisionning Profiles - Operation Group User",
+  "status": "skipped",
+  "tags": []
+},
+
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\ServiceProfiles.feature:4",
+      "name": "Check Service Profile Page Access and Contents Validation-Operator User",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\ServiceProfiles.feature:6",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\ServiceProfiles.feature:7",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:8",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:9",
+          "name": "click on link \"Administration\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:10",
+          "name": "click on link \"Service profiles\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:11",
+          "name": "text \"service profiles\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:12",
+          "name": "text \"Organisation\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:13",
+          "name": "text \"Service Profile\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:14",
+          "name": "validate table headers \"Service profile,Description,Organisation,Parent organisation,Number of SIMs\" for table \"ServiceProf\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:15",
+          "name": "logout and close the browser",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "TC_ValidateSerivceProfPageContents"
+      ],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features\\ServiceProfiles.feature:18",
+      "name": "Search For Service Profiles - Operator  User",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\ServiceProfiles.feature:20",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\ServiceProfiles.feature:21",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:22",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:24",
+          "name": "click on link \"Administration\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:25",
+          "name": "click on link \"Service profiles\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:26",
+          "name": "text \"Service profiles\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:27",
+          "name": "get value from label \"Service Profile\" and store it in \"value1\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:29",
+          "name": "enter text for \"Service Profile\" with value \"BMW_IT\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:30",
+          "name": "click on button \"Search\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServiceProfiles.feature:31",
+          "name": "text \"matching result\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:32",
+          "name": "report info \"SUCCESS : Operator is able to search service profile for organization\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:34",
+          "name": "click on link \"Clear fields\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:35",
+          "name": "get value from label \"Service Profile\" and store it in \"value2\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:36",
+          "name": "check if values \"value1\" and \"value2\" are \"equal\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:37",
+          "name": "report info \"SUCCESS : Clear Fields set the Searchable fields to default values\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServiceProfiles.feature:38",
+          "name": "logout and close the browser",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "TC_OperatorSearchServiceProfile"
+      ],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\ServiceProfiles.feature:1",
+  "name": "Service Profile",
+  "status": "skipped",
+  "tags": []
+},
+
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\ServingNetworks.feature:4",
+      "name": "Operator Group User - Serving networks detail",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\ServingNetworks.feature:6",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\ServingNetworks.feature:7",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:8",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:10",
+          "name": "click on link \"Administration\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:11",
+          "name": "click on link \"Serving networks\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:12",
+          "name": "text \"Serving networks\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:14",
+          "name": "enter text for \"ServingNetworkCode\" with value \"100\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:15",
+          "name": "click on button \"Search\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:16",
+          "name": "click on link \"100\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:18",
+          "name": "text \"Information\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:19",
+          "name": "text \"Code\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:20",
+          "name": "text \"Network name\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:21",
+          "name": "text \"Country\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:22",
+          "name": "text \"See related portal interactions\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:23",
+          "name": "report info \"SUCCESS: The Information Panel Content is Displayed Correctly\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:25",
+          "name": "text \"Network\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:26",
+          "name": "text \"MCC-MNC\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\ServingNetworks.feature:27",
+          "name": "text \"TADIG Code\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:28",
+          "name": "report info \"SUCCESS: The Network Panel Content is Displayed Correctly\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\ServingNetworks.feature:29",
+          "name": "logout and close the browser",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "TC_OPGrpUserViewServiceNetworksDetail"
+      ],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\ServingNetworks.feature:1",
+  "name": "Serving Networks",
+  "status": "skipped",
+  "tags": []
+},
+
+{
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\TasksManagement.feature:4",
+      "name": "Operator Group Create task",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\TasksManagement.feature:6",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\TasksManagement.feature:7",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\TasksManagement.feature:8",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:9",
+          "name": "click on link \"PPVGE as Operator Administrator\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:10",
+          "name": "click on link \"Platform as Platform Support & IITC\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:11",
+          "name": "click on link \"Tools\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:12",
+          "name": "click on link \"All tasks\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\TasksManagement.feature:13",
+          "name": "text \"Tasks\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:14",
+          "name": "click on button \"Create task\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\TasksManagement.feature:15",
+          "name": "text \"Task detail\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:16",
+          "name": "enter text area for \"Description\" with value \"Test Task\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:17",
+          "name": "click on button \"Create\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\TasksManagement.feature:18",
+          "name": "text \"The task was successfully created!\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:19",
+          "name": "click on link \"See task detail\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\TasksManagement.feature:20",
+          "name": "text \"Details\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\TasksManagement.feature:21",
+          "name": "logout and close the browser",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "TC_OpGrpCanCreateTask"
+      ],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\TasksManagement.feature:1",
+  "name": "Tasks Management",
+  "status": "skipped",
+  "tags": []
+},
+
+{
+  "description": [
+    "This is test feature"
+  ],
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\test.feature:6",
+      "name": "testcase",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\test.feature:7",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\teststep.py:7"
+          },
+          "name": "start test case",
+          "result": {
+            "duration": 0.0,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\test.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\teststep.py:11"
+          },
+          "name": "open browser",
+          "result": {
+            "duration": 1.7099254131317139,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\teststep.py:15"
+          },
+          "name": "login into portal",
+          "result": {
+            "duration": 6.966439723968506,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:10",
+          "match": {
+            "arguments": [
+              {
+                "name": "menuname",
+                "value": "Devices"
+              }
+            ],
+            "location": "features\\steps\\teststep.py:19"
+          },
+          "name": "click on menu \"Devices\"",
+          "result": {
+            "duration": 4.021410226821899,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:11",
+          "match": {
+            "arguments": [
+              {
+                "name": "submenuname",
+                "value": "All devices"
+              }
+            ],
+            "location": "features\\steps\\teststep.py:23"
+          },
+          "name": "click on submenu \"All devices\"",
+          "result": {
+            "duration": 3.5564775466918945,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:12",
+          "match": {
+            "arguments": [
+              {
+                "name": "textname",
+                "value": "Devices"
+              }
+            ],
+            "location": "features\\steps\\teststep.py:39"
+          },
+          "name": "text \"Devices\" is visible",
+          "result": {
+            "duration": 4.387528896331787,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:13",
+          "match": {
+            "arguments": [
+              {
+                "name": "textname",
+                "value": "Search"
+              }
+            ],
+            "location": "features\\steps\\teststep.py:39"
+          },
+          "name": "text \"Search\" is visible",
+          "result": {
+            "duration": 6.251469612121582,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:14",
+          "match": {
+            "arguments": [
+              {
+                "name": "inputname",
+                "value": "Organisation"
+              }
+            ],
+            "location": "features\\steps\\teststep.py:27"
+          },
+          "name": "click on input \"Organisation\"",
+          "result": {
+            "duration": 0.0,
+            "error_message": [
+              "Traceback (most recent call last):",
+              "  File \"c:\\users\\saurabh\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\behave\\model.py\", line 1456, in run",
+              "    match.run(runner.context)",
+              "  File \"c:\\users\\saurabh\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\behave\\model.py\", line 1903, in run",
+              "    self.func(context, *args, **kwargs)",
+              "  File \"features\\steps\\teststep.py\", line 29, in clickonmenu",
+              "    driver.clickOnInput(inputname)",
+              "TypeError: clickOnInput() missing 1 required positional argument: 'inputValue'",
+              "",
+              "Captured stdout:",
+              "Test case start",
+              "",
+              "Captured logging:",
+              "INFO:openUrl:Opening URL https://m2mportal-stage.vodafone.com/m2mscp/",
+              "WARNING:login:Login not complete",
+              "INFO:login:Logged in with user: Home screen is visible",
+              "INFO:clickOnMenu:Clicking on menu: Devices",
+              "INFO:clickOnMenu:Object Devices is not found in Repository",
+              "INFO:getObjByAlgo:LOCATOR: tag_name, locatorvalue: a, value: Devices",
+              "INFO:clickOnMenu:MenuDevices is clicked",
+              "INFO:clickOnMenu:Clicking on menu: All devices",
+              "INFO:clickOnMenu:Object All devices is not found in Repository",
+              "INFO:getObjByAlgo:LOCATOR: tag_name, locatorvalue: a, value: All devices",
+              "INFO:clickOnMenu:MenuAll devices is clicked",
+              "INFO:verifyTextOnScreen:Verifying if text: Devices is present on page",
+              "INFO:verifyTextOnScreen:Object Devices is not found in Repository",
+              "INFO:getObjByAlgo:LOCATOR: tag_name, locatorvalue: div, value: Devices",
+              "INFO:verifyTextOnScreen:Static Text Found : Devices",
+              "INFO:verifyTextOnScreen:Verifying if text: Search is present on page",
+              "INFO:verifyTextOnScreen:Object Search is not found in Repository",
+              "INFO:getObjByAlgo:LOCATOR: tag_name, locatorvalue: div, value: Search",
+              "INFO:verifyTextOnScreen:Static Text Found : Search"
+            ],
+            "status": "failed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:15",
+          "name": "click on list \"PPTOMTOM\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:16",
+          "name": "select from list \"aricent_55\"",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "t1"
+      ],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features\\test.feature:22",
+      "name": "Create Customer",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\test.feature:23",
+          "name": "start test case",
+          "step_type": "given"
+        },
+        {
+          "keyword": "Given",
+          "location": "features\\test.feature:24",
+          "name": "open browser",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:25",
+          "name": "login into portal",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:26",
+          "name": "click on menu \"Administration\"",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:27",
+          "name": "click on submenu \"Customers\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:28",
+          "name": "text \"Organisations\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:29",
+          "name": "text \"matching\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:30",
+          "name": "click on link \"Create organisation\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:31",
+          "name": "click on button \"Create customer\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\test.feature:33",
+          "name": "text \"Basic information\" is visible",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:34",
+          "name": "enter text for \"* Customer name\" with value \"AUTO1212\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:35",
+          "name": "enter text for \"* Customer description\" with value \"autotest\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:37",
+          "name": "select option \"ICCID\" of dropdown \"* Primary SIM identifier\"",
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\test.feature:38",
+          "name": "select option \"ICCID\" of dropdown \"* Display name source\"",
+          "step_type": "then"
+        }
+      ],
+      "tags": [
+        "createcustomer"
+      ],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\test.feature:2",
+  "name": "test",
+  "status": "failed",
+  "tags": [
+    "f1"
+  ]
+}
+]

@@ -1,0 +1,3320 @@
+2017-09-26 15:37:16,198 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 15:37:17,553 - login - WARNING - Login not complete
+2017-09-26 15:37:21,453 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 15:37:22,455 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-26 15:38:45,663 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 15:38:46,857 - login - WARNING - Login not complete
+2017-09-26 15:38:49,664 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 15:38:50,667 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-26 17:03:53,141 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:03:54,453 - login - WARNING - Login not complete
+2017-09-26 17:03:58,193 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:03:59,197 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-26 17:04:00,301 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:00,301 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:02,303 - clickOnMenu - INFO - Object Administration is not found in Repository
+2017-09-26 17:04:02,303 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:04:02,303 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-26 17:04:02,319 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-26 17:04:02,967 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-26 17:04:03,028 - clickOnMenu - INFO - MenuAdministration is clicked
+2017-09-26 17:04:03,029 - clickOnSubmeu - INFO - Clicking on submenu: Customers
+2017-09-26 17:04:04,106 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:04,106 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:06,111 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:04:06,111 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-26 17:04:06,111 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-26 17:04:06,642 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-26 17:04:06,719 - clickOnSubmenu - INFO - Sub-menuCustomers is clicked
+2017-09-26 17:04:06,719 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:04:07,777 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:07,777 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:09,797 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:04:09,799 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:04:09,799 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:04:09,799 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:04:16,195 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:04:16,195 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:04:16,195 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:04:16,195 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:04:16,926 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:01:57
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Organisations
+Search
+Organisations under
+Directly under only
+Type
+Remove All
+Automated customer
+Customer
+Organisation
+Description
+Organisation ID
+Search
+Clear fields
+Results 1286 matching result(s).
+Create organisation
+Export
+Organisation Parent Organisation Type Description
+AUTO_CARGOTEC_CUSTOMER_0001 CARGOTEC Customer
+DO NOT DELETE/EDIT - AUTO_CARGOTEC_CUSTOMER_0001
+United Kingdom 1
+AUTO_CUSTOMER_PCARGOTEC_0001 CARGOTEC Customer
+DONOTDELETE/EDIT
+1
+carg_co CARGOTEC Customer
+copyed
+1
+Cargo_Customer CARGOTEC Customer
+Customer
+1
+CARGOTEC CARGOTEC Customer
+Asset Tracking
+3
+Cargotec_customert CARGOTEC Customer
+sa
+1
+ere CARGOTEC Customer
+ert
+1
+fgdffg CARGOTEC Customer
+fghfhgf
+United Kingdom 1
+qqqqq CARGOTEC Customer
+qqqqq
+1
+teste_customer CARGOTEC Customer
+wrewerw
+1
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:04:16,927 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:04:16,928 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-26 17:04:17,984 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:17,984 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:19,991 - clickOnLink - INFO - Object Create organisation is not found in Repository
+2017-09-26 17:04:19,991 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:04:19,991 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-26 17:04:19,991 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-26 17:04:21,724 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-26 17:04:21,802 - clickOnLink - INFO - Link Create organisation is selected
+2017-09-26 17:04:21,803 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-26 17:04:22,878 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:22,878 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:24,884 - clickOnButton - INFO - Object Create customer is not found in Repository
+2017-09-26 17:04:24,884 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-26 17:04:24,884 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create customer
+2017-09-26 17:04:24,884 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create customer
+2017-09-26 17:04:25,731 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer group
+2017-09-26 17:04:25,820 - clickOnButton - INFO - ButtonCreate customer is clicked
+2017-09-26 17:04:25,821 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-26 17:04:26,851 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:26,851 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:28,871 - verifyTextOnScreen - INFO - Object Basic information is not found in Repository
+2017-09-26 17:04:28,873 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:04:28,873 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-26 17:04:28,873 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-26 17:04:30,692 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:01:57
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Create customer group
+Information and features
+Reports
+Confirmation
+Conclusion
+  Basic information
+* Name * Description * Parent organisation
+Data synchronisation
+Configure endpoint Yes No
+Report notification
+Configure endpoint Yes No
+Store
+Request forecasts Enabled Disabled
+  Cancel
+         Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:04:30,694 - verifyTextOnScreen - INFO - Static Text Found : Basic information
+2017-09-26 17:04:30,694 - enterText - INFO - Entering text AutoTest1 for Name
+2017-09-26 17:04:31,730 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:31,730 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:33,732 - enterText - INFO - Object Name is not found in Repository
+2017-09-26 17:04:33,732 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:04:33,732 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Name
+2017-09-26 17:04:33,732 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Name
+2017-09-26 17:04:33,998 - find_auto_element - DEBUG - During search we found the object with attribute text: * Name
+2017-09-26 17:04:34,189 - enterText - INFO - Text object Found. Entering Value for text field Name with value AutoTest1
+2017-09-26 17:04:34,190 - enterText - INFO - Entering text Autoamtion test for Description
+2017-09-26 17:04:35,253 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:35,256 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:37,268 - enterText - INFO - Object Description is not found in Repository
+2017-09-26 17:04:37,268 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:04:37,268 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Description
+2017-09-26 17:04:37,268 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Description
+2017-09-26 17:04:37,414 - find_auto_element - DEBUG - During search we found the object with attribute text: * Description
+2017-09-26 17:04:37,671 - enterText - INFO - Text object Found. Entering Value for text field Description with value Autoamtion test
+2017-09-26 17:04:37,671 - clickOnInput - INFO - Clicking on menu: Parent organisation
+2017-09-26 17:04:38,735 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:38,736 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:40,743 - clickOnInput - INFO - Object PPTOMTOM is not found in Repository
+2017-09-26 17:04:40,744 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-26 17:04:40,746 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Parent organisation
+2017-09-26 17:04:40,748 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Parent organisation
+2017-09-26 17:04:40,893 - find_auto_element - DEBUG - During search we found the object with attribute text: * Parent organisation
+2017-09-26 17:04:51,683 - clickOnInput - INFO - INPUT Parent organisation is selected
+2017-09-26 17:04:51,684 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:04:52,742 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:52,742 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:54,748 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:04:54,748 - getObjByAlgo - DEBUG - Getting locator and locator value for radiobutton
+2017-09-26 17:04:54,763 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:04:54,763 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:04:54,948 - find_auto_element - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:04:55,045 - selectRadioButton - INFO - Radio Button Yes is selected
+2017-09-26 17:04:55,046 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:04:56,108 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:04:56,108 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:04:58,111 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:04:58,111 - selectRadioButton - DEBUG - Getting locator and locator value for radio button
+2017-09-26 17:04:58,111 - selectRadioButton - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:04:58,127 - find_auto_element_on_position - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:04:58,533 - find_auto_element_on_position - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:04:58,614 - selectRadioButton - INFO - Radio Button Yes is selected in position Yes
+2017-09-26 17:11:17,494 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:11:18,690 - login - WARNING - Login not complete
+2017-09-26 17:11:22,173 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:11:23,175 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-26 17:11:24,255 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:24,255 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:26,257 - clickOnMenu - INFO - Object Administration is not found in Repository
+2017-09-26 17:11:26,257 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:11:26,257 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-26 17:11:26,273 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-26 17:11:26,970 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-26 17:11:27,038 - clickOnMenu - INFO - MenuAdministration is clicked
+2017-09-26 17:11:27,039 - clickOnSubmeu - INFO - Clicking on submenu: Customers
+2017-09-26 17:11:28,076 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:28,076 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:30,078 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:11:30,078 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-26 17:11:30,078 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-26 17:11:30,647 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-26 17:11:30,730 - clickOnSubmenu - INFO - Sub-menuCustomers is clicked
+2017-09-26 17:11:30,730 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:11:31,780 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:31,780 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:33,783 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:11:33,785 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:11:33,787 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:11:33,788 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:11:35,153 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:09:55
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Organisations
+Search
+Organisations under
+Directly under only
+Type
+Remove All
+Automated customer
+Customer
+Organisation
+Description
+Organisation ID
+Search
+Clear fields
+Results 1286 matching result(s).
+Create organisation
+Export
+Organisation Parent Organisation Type Description
+AUTO_CARGOTEC_CUSTOMER_0001 CARGOTEC Customer
+DO NOT DELETE/EDIT - AUTO_CARGOTEC_CUSTOMER_0001
+United Kingdom 1
+AUTO_CUSTOMER_PCARGOTEC_0001 CARGOTEC Customer
+DONOTDELETE/EDIT
+1
+carg_co CARGOTEC Customer
+copyed
+1
+Cargo_Customer CARGOTEC Customer
+Customer
+1
+CARGOTEC CARGOTEC Customer
+Asset Tracking
+3
+Cargotec_customert CARGOTEC Customer
+sa
+1
+ere CARGOTEC Customer
+ert
+1
+fgdffg CARGOTEC Customer
+fghfhgf
+United Kingdom 1
+qqqqq CARGOTEC Customer
+qqqqq
+1
+teste_customer CARGOTEC Customer
+wrewerw
+1
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:11:35,154 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:11:35,155 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-26 17:11:35,192 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:11:38,214 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:38,214 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:40,214 - clickOnLink - INFO - Object Create organisation is not found in Repository
+2017-09-26 17:11:40,214 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:11:40,214 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-26 17:11:40,214 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-26 17:11:42,048 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-26 17:11:42,116 - clickOnLink - INFO - Link Create organisation is selected
+2017-09-26 17:11:42,117 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-26 17:11:43,175 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:43,175 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:45,182 - clickOnButton - INFO - Object Create customer is not found in Repository
+2017-09-26 17:11:45,182 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-26 17:11:45,182 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create customer
+2017-09-26 17:11:45,182 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create customer
+2017-09-26 17:11:46,052 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer group
+2017-09-26 17:11:46,130 - clickOnButton - INFO - ButtonCreate customer is clicked
+2017-09-26 17:11:46,131 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-26 17:11:47,195 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:47,198 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:49,208 - verifyTextOnScreen - INFO - Object Basic information is not found in Repository
+2017-09-26 17:11:49,209 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:11:49,209 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-26 17:11:49,209 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-26 17:11:56,237 - verifyTextOnScreen - INFO - Object Basic information is not found in Repository
+2017-09-26 17:11:56,237 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:11:56,237 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-26 17:11:56,237 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-26 17:11:56,860 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:09:55
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Create customer group
+Information and features
+Reports
+Confirmation
+Conclusion
+  Basic information
+* Name * Description * Parent organisation
+Data synchronisation
+Configure endpoint Yes No
+Report notification
+Configure endpoint Yes No
+Store
+Request forecasts Enabled Disabled
+  Cancel
+         Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:11:56,860 - verifyTextOnScreen - INFO - Static Text Found : Basic information
+2017-09-26 17:11:56,860 - enterText - INFO - Entering text AutoTest1 for Name
+2017-09-26 17:11:57,923 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:11:57,923 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:11:59,928 - enterText - INFO - Object Name is not found in Repository
+2017-09-26 17:11:59,928 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:11:59,928 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Name
+2017-09-26 17:11:59,928 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Name
+2017-09-26 17:12:00,228 - find_auto_element - DEBUG - During search we found the object with attribute text: * Name
+2017-09-26 17:12:00,439 - enterText - INFO - Text object Found. Entering Value for text field Name with value AutoTest1
+2017-09-26 17:12:00,449 - enterText - INFO - Entering text Autoamtion test for Description
+2017-09-26 17:12:01,500 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:12:01,501 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:12:03,515 - enterText - INFO - Object Description is not found in Repository
+2017-09-26 17:12:03,515 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:12:03,515 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Description
+2017-09-26 17:12:03,515 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Description
+2017-09-26 17:12:03,660 - find_auto_element - DEBUG - During search we found the object with attribute text: * Description
+2017-09-26 17:12:03,918 - enterText - INFO - Text object Found. Entering Value for text field Description with value Autoamtion test
+2017-09-26 17:12:03,918 - clickOnInput - INFO - Clicking on menu: Parent organisation
+2017-09-26 17:12:04,969 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:12:04,972 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:12:06,975 - clickOnInput - INFO - Object PPTOMTOM is not found in Repository
+2017-09-26 17:12:06,976 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-26 17:12:06,976 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Parent organisation
+2017-09-26 17:12:06,976 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Parent organisation
+2017-09-26 17:12:07,223 - find_auto_element - DEBUG - During search we found the object with attribute text: * Parent organisation
+2017-09-26 17:12:18,058 - clickOnInput - INFO - INPUT Parent organisation is selected
+2017-09-26 17:12:18,059 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:12:19,104 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:12:19,104 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:12:21,107 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:12:21,107 - getObjByAlgo - DEBUG - Getting locator and locator value for radiobutton
+2017-09-26 17:12:21,107 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:12:21,107 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:12:21,455 - find_auto_element - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:12:21,533 - selectRadioButton - INFO - Radio Button Yes is selected
+2017-09-26 17:12:21,534 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:12:22,593 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:12:22,593 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:12:24,595 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:12:24,595 - selectRadioButton - DEBUG - Getting locator and locator value for radio button
+2017-09-26 17:12:24,595 - selectRadioButton - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:12:24,595 - find_auto_element_on_position - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:12:25,058 - find_auto_element_on_position - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:12:25,128 - selectRadioButton - INFO - Radio Button Yes is selected in position Yes
+2017-09-26 17:15:34,991 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:15:36,161 - login - WARNING - Login not complete
+2017-09-26 17:15:39,814 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:15:40,816 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-26 17:15:41,923 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:15:41,923 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:15:43,927 - clickOnMenu - INFO - Object Administration is not found in Repository
+2017-09-26 17:15:43,927 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:15:43,927 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-26 17:15:43,943 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-26 17:15:44,629 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-26 17:15:44,690 - clickOnMenu - INFO - MenuAdministration is clicked
+2017-09-26 17:15:44,691 - clickOnSubmeu - INFO - Clicking on submenu: Customers
+2017-09-26 17:15:45,734 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:15:45,735 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:15:47,735 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:15:47,735 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-26 17:15:47,735 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-26 17:15:48,151 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-26 17:15:48,222 - clickOnSubmenu - INFO - Sub-menuCustomers is clicked
+2017-09-26 17:15:48,223 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:15:49,286 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:15:49,289 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:15:51,306 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:15:51,306 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:15:51,306 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:15:51,306 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:15:52,723 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:12:57
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Organisations
+Search
+Organisations under
+Directly under only
+Type
+Remove All
+Automated customer
+Customer
+Organisation
+Description
+Organisation ID
+Search
+Clear fields
+Results 1286 matching result(s).
+Create organisation
+Export
+Organisation Parent Organisation Type Description
+AUTO_CARGOTEC_CUSTOMER_0001 CARGOTEC Customer
+DO NOT DELETE/EDIT - AUTO_CARGOTEC_CUSTOMER_0001
+United Kingdom 1
+AUTO_CUSTOMER_PCARGOTEC_0001 CARGOTEC Customer
+DONOTDELETE/EDIT
+1
+carg_co CARGOTEC Customer
+copyed
+1
+Cargo_Customer CARGOTEC Customer
+Customer
+1
+CARGOTEC CARGOTEC Customer
+Asset Tracking
+3
+Cargotec_customert CARGOTEC Customer
+sa
+1
+ere CARGOTEC Customer
+ert
+1
+fgdffg CARGOTEC Customer
+fghfhgf
+United Kingdom 1
+qqqqq CARGOTEC Customer
+qqqqq
+1
+teste_customer CARGOTEC Customer
+wrewerw
+1
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:15:52,724 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:15:52,725 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-26 17:15:52,766 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:15:55,812 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:15:55,812 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:15:57,815 - clickOnLink - INFO - Object Create organisation is not found in Repository
+2017-09-26 17:15:57,815 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:15:57,815 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-26 17:15:57,815 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-26 17:15:59,534 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-26 17:15:59,590 - clickOnLink - INFO - Link Create organisation is selected
+2017-09-26 17:15:59,591 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-26 17:16:00,636 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:00,636 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:02,636 - clickOnButton - INFO - Object Create customer is not found in Repository
+2017-09-26 17:16:02,636 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-26 17:16:02,636 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create customer
+2017-09-26 17:16:02,636 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create customer
+2017-09-26 17:16:03,405 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer group
+2017-09-26 17:16:03,492 - clickOnButton - INFO - ButtonCreate customer is clicked
+2017-09-26 17:16:03,492 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-26 17:16:04,539 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:04,539 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:06,548 - verifyTextOnScreen - INFO - Object Basic information is not found in Repository
+2017-09-26 17:16:06,548 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:16:06,548 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-26 17:16:06,548 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-26 17:16:08,366 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:12:57
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Create customer group
+Information and features
+Reports
+Confirmation
+Conclusion
+  Basic information
+* Name * Description * Parent organisation
+Data synchronisation
+Configure endpoint Yes No
+Report notification
+Configure endpoint Yes No
+Store
+Request forecasts Enabled Disabled
+  Cancel
+         Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:16:08,367 - verifyTextOnScreen - INFO - Static Text Found : Basic information
+2017-09-26 17:16:08,368 - enterText - INFO - Entering text AutoTest1 for Name
+2017-09-26 17:16:09,392 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:09,392 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:11,395 - enterText - INFO - Object Name is not found in Repository
+2017-09-26 17:16:11,395 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:16:11,395 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Name
+2017-09-26 17:16:11,395 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Name
+2017-09-26 17:16:11,695 - find_auto_element - DEBUG - During search we found the object with attribute text: * Name
+2017-09-26 17:16:11,884 - enterText - INFO - Text object Found. Entering Value for text field Name with value AutoTest1
+2017-09-26 17:16:11,885 - enterText - INFO - Entering text Autoamtion test for Description
+2017-09-26 17:16:12,948 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:12,951 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:14,969 - enterText - INFO - Object Description is not found in Repository
+2017-09-26 17:16:14,969 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:16:14,969 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Description
+2017-09-26 17:16:14,969 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Description
+2017-09-26 17:16:15,269 - find_auto_element - DEBUG - During search we found the object with attribute text: * Description
+2017-09-26 17:16:15,525 - enterText - INFO - Text object Found. Entering Value for text field Description with value Autoamtion test
+2017-09-26 17:16:15,526 - clickOnInput - INFO - Clicking on menu: Parent organisation
+2017-09-26 17:16:16,588 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:16,591 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:18,595 - clickOnInput - INFO - Object PPTOMTOM is not found in Repository
+2017-09-26 17:16:18,595 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-26 17:16:18,595 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Parent organisation
+2017-09-26 17:16:18,595 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Parent organisation
+2017-09-26 17:16:18,844 - find_auto_element - DEBUG - During search we found the object with attribute text: * Parent organisation
+2017-09-26 17:16:29,686 - clickOnInput - INFO - INPUT Parent organisation is selected
+2017-09-26 17:16:29,686 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:16:30,748 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:30,748 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:32,751 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:16:32,751 - getObjByAlgo - DEBUG - Getting locator and locator value for radiobutton
+2017-09-26 17:16:32,751 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:16:32,751 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:16:33,035 - find_auto_element - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:16:33,115 - selectRadioButton - INFO - Radio Button Yes is selected
+2017-09-26 17:16:33,116 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:16:34,167 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:16:34,167 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:16:36,169 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:16:36,169 - selectRadioButton - DEBUG - Getting locator and locator value for radio button
+2017-09-26 17:16:36,169 - selectRadioButton - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:16:36,169 - find_auto_element_on_position - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:16:36,602 - find_auto_element_on_position - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:16:36,658 - selectRadioButton - INFO - Radio Button Yes is selected in position Yes
+2017-09-26 17:27:47,168 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:27:48,636 - login - WARNING - Login not complete
+2017-09-26 17:27:52,734 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:27:53,735 - clickOnMenu - INFO - Clicking on menu: Administration
+2017-09-26 17:27:54,806 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:27:54,806 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:27:56,809 - clickOnMenu - INFO - Object Administration is not found in Repository
+2017-09-26 17:27:56,809 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:27:56,809 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Administration
+2017-09-26 17:27:56,825 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Administration
+2017-09-26 17:27:57,463 - find_auto_element - DEBUG - During search we found the object with attribute text: Administration
+2017-09-26 17:27:57,534 - clickOnMenu - INFO - MenuAdministration is clicked
+2017-09-26 17:27:57,534 - clickOnSubmeu - INFO - Clicking on submenu: Customers
+2017-09-26 17:27:58,597 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:27:58,597 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:00,608 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:28:00,608 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Customers
+2017-09-26 17:28:00,608 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Customers
+2017-09-26 17:28:00,984 - find_auto_element - DEBUG - During search we found the object with attribute text: Customers
+2017-09-26 17:28:01,069 - clickOnSubmenu - INFO - Sub-menuCustomers is clicked
+2017-09-26 17:28:01,069 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:28:02,116 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:02,116 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:04,118 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:28:04,118 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:28:04,118 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:28:04,134 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:28:12,893 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:28:12,893 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:28:12,893 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:28:12,909 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:28:13,745 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:24:34
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Organisations
+Search
+Organisations under
+Directly under only
+Type
+Remove All
+Automated customer
+Customer
+Organisation
+Description
+Organisation ID
+Search
+Clear fields
+Results 1286 matching result(s).
+Create organisation
+Export
+Organisation Parent Organisation Type Description
+AUTO_CARGOTEC_CUSTOMER_0001 CARGOTEC Customer
+DO NOT DELETE/EDIT - AUTO_CARGOTEC_CUSTOMER_0001
+United Kingdom 1
+AUTO_CUSTOMER_PCARGOTEC_0001 CARGOTEC Customer
+DONOTDELETE/EDIT
+1
+carg_co CARGOTEC Customer
+copyed
+1
+Cargo_Customer CARGOTEC Customer
+Customer
+1
+CARGOTEC CARGOTEC Customer
+Asset Tracking
+3
+Cargotec_customert CARGOTEC Customer
+sa
+1
+ere CARGOTEC Customer
+ert
+1
+fgdffg CARGOTEC Customer
+fghfhgf
+United Kingdom 1
+qqqqq CARGOTEC Customer
+qqqqq
+1
+teste_customer CARGOTEC Customer
+wrewerw
+1
+Show
+10
+20
+50
+100
+per page
+12345Next
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:28:13,746 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:28:13,747 - clickOnLink - INFO - Clicking on link: Create organisation
+2017-09-26 17:28:14,811 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:14,811 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:16,815 - clickOnLink - INFO - Object Create organisation is not found in Repository
+2017-09-26 17:28:16,815 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:28:16,815 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create organisation
+2017-09-26 17:28:16,815 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create organisation
+2017-09-26 17:28:18,584 - find_auto_element - DEBUG - During search we found the object with attribute text: Create organisation
+2017-09-26 17:28:18,666 - clickOnLink - INFO - Link Create organisation is selected
+2017-09-26 17:28:18,668 - clickOnButton - INFO - Clicking on button: Create customer
+2017-09-26 17:28:19,722 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:19,722 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:21,736 - clickOnButton - INFO - Object Create customer is not found in Repository
+2017-09-26 17:28:21,736 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-26 17:28:21,736 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Create customer
+2017-09-26 17:28:21,736 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Create customer
+2017-09-26 17:28:22,653 - find_auto_element - DEBUG - During search we found the object with attribute text: Create customer group
+2017-09-26 17:28:22,730 - clickOnButton - INFO - ButtonCreate customer is clicked
+2017-09-26 17:28:22,731 - verifyTextOnScreen - INFO - Verifying if text: Basic information is present on page
+2017-09-26 17:28:23,781 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:23,784 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:25,793 - verifyTextOnScreen - INFO - Object Basic information is not found in Repository
+2017-09-26 17:28:25,794 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:28:25,794 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Basic information
+2017-09-26 17:28:25,794 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Basic information
+2017-09-26 17:28:27,343 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:24:34
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Create customer group
+Information and features
+Reports
+Confirmation
+Conclusion
+  Basic information
+* Name * Description * Parent organisation
+Data synchronisation
+Configure endpoint Yes No
+Report notification
+Configure endpoint Yes No
+Store
+Request forecasts Enabled Disabled
+  Cancel
+         Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:28:27,343 - verifyTextOnScreen - INFO - Static Text Found : Basic information
+2017-09-26 17:28:27,343 - enterText - INFO - Entering text AutoTest1 for Name
+2017-09-26 17:28:28,376 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:28,376 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:30,377 - enterText - INFO - Object Name is not found in Repository
+2017-09-26 17:28:30,377 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:28:30,377 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Name
+2017-09-26 17:28:30,377 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Name
+2017-09-26 17:28:30,631 - find_auto_element - DEBUG - During search we found the object with attribute text: * Name
+2017-09-26 17:28:30,828 - enterText - INFO - Text object Found. Entering Value for text field Name with value AutoTest1
+2017-09-26 17:28:30,829 - enterText - INFO - Entering text Autoamtion test for Description
+2017-09-26 17:28:31,852 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:31,853 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:33,860 - enterText - INFO - Object Description is not found in Repository
+2017-09-26 17:28:33,860 - getObjByAlgo - DEBUG - Getting locator and locator value for text
+2017-09-26 17:28:33,860 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Description
+2017-09-26 17:28:33,877 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Description
+2017-09-26 17:28:34,016 - find_auto_element - DEBUG - During search we found the object with attribute text: * Description
+2017-09-26 17:28:34,270 - enterText - INFO - Text object Found. Entering Value for text field Description with value Autoamtion test
+2017-09-26 17:28:34,270 - clickOnInput - INFO - Clicking on menu: Parent organisation
+2017-09-26 17:28:35,321 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:35,323 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:37,332 - clickOnInput - INFO - Object PPTOMTOM is not found in Repository
+2017-09-26 17:28:37,332 - getObjByAlgo - DEBUG - Getting locator and locator value for input
+2017-09-26 17:28:37,332 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Parent organisation
+2017-09-26 17:28:37,332 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Parent organisation
+2017-09-26 17:28:37,585 - find_auto_element - DEBUG - During search we found the object with attribute text: * Parent organisation
+2017-09-26 17:28:48,416 - clickOnInput - INFO - INPUT Parent organisation is selected
+2017-09-26 17:28:48,417 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:28:49,462 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:49,462 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:51,468 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:28:51,468 - getObjByAlgo - DEBUG - Getting locator and locator value for radiobutton
+2017-09-26 17:28:51,468 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:28:51,468 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:28:51,784 - find_auto_element - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:28:51,872 - selectRadioButton - INFO - Radio Button Yes is selected
+2017-09-26 17:28:51,873 - selectRadioButton - INFO - Clicking on Radio Button SAURABH : Yes
+2017-09-26 17:28:52,916 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:28:52,916 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:28:54,919 - selectRadioButton - INFO - Object Yes is not found in Repository
+2017-09-26 17:28:54,919 - selectRadioButton - DEBUG - Getting locator and locator value for radio button
+2017-09-26 17:28:54,919 - selectRadioButton - INFO - LOCATOR: tag_name, locatorvalue: label, value: Yes
+2017-09-26 17:28:54,919 - find_auto_element_on_position - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: label and value: Yes
+2017-09-26 17:28:54,941 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-811")>
+2017-09-26 17:28:54,965 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:54,970 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-812")>
+2017-09-26 17:28:54,986 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,001 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-813")>
+2017-09-26 17:28:55,001 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,017 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-814")>
+2017-09-26 17:28:55,017 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,037 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-815")>
+2017-09-26 17:28:55,041 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,041 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-816")>
+2017-09-26 17:28:55,057 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,057 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-817")>
+2017-09-26 17:28:55,072 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,088 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-818")>
+2017-09-26 17:28:55,088 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,103 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-819")>
+2017-09-26 17:28:55,103 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,119 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-820")>
+2017-09-26 17:28:55,136 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,141 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-821")>
+2017-09-26 17:28:55,141 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,157 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-822")>
+2017-09-26 17:28:55,157 - find_auto_element_on_position - DEBUG - SSSSSSSSSS * Name
+2017-09-26 17:28:55,172 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-823")>
+2017-09-26 17:28:55,188 - find_auto_element_on_position - DEBUG - SSSSSSSSSS * Description
+2017-09-26 17:28:55,188 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-824")>
+2017-09-26 17:28:55,203 - find_auto_element_on_position - DEBUG - SSSSSSSSSS * Parent organisation
+2017-09-26 17:28:55,203 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-825")>
+2017-09-26 17:28:55,219 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Configure endpoint
+2017-09-26 17:28:55,235 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-826")>
+2017-09-26 17:28:55,241 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Yes
+2017-09-26 17:28:55,241 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-827")>
+2017-09-26 17:28:55,272 - find_auto_element_on_position - DEBUG - SSSSSSSSSS No
+2017-09-26 17:28:55,272 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-828")>
+2017-09-26 17:28:55,304 - find_auto_element_on_position - DEBUG - SSSSSSSSSS * Endpoint
+2017-09-26 17:28:55,304 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-829")>
+2017-09-26 17:28:55,335 - find_auto_element_on_position - DEBUG - SSSSSSSSSS * Description
+2017-09-26 17:28:55,341 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-830")>
+2017-09-26 17:28:55,357 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Web service
+2017-09-26 17:28:55,373 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-831")>
+2017-09-26 17:28:55,388 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Enabled
+2017-09-26 17:28:55,404 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-832")>
+2017-09-26 17:28:55,419 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Disabled
+2017-09-26 17:28:55,436 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-833")>
+2017-09-26 17:28:55,442 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,457 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-834")>
+2017-09-26 17:28:55,473 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,489 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-835")>
+2017-09-26 17:28:55,508 - find_auto_element_on_position - DEBUG - SSSSSSSSSS 
+2017-09-26 17:28:55,509 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-836")>
+2017-09-26 17:28:55,525 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Configure endpoint
+2017-09-26 17:28:55,541 - find_auto_element_on_position - DEBUG - <selenium.webdriver.remote.webelement.WebElement (session="1f155bbcc261f265a105fdf01a946bf8", element="0.35587875568583494-837")>
+2017-09-26 17:28:55,557 - find_auto_element_on_position - DEBUG - SSSSSSSSSS Yes
+2017-09-26 17:28:55,573 - find_auto_element_on_position - DEBUG - During search we found the object with attribute text: Yes
+2017-09-26 17:28:55,657 - selectRadioButton - INFO - Radio Button Yes is selected in position Yes
+2017-09-26 17:48:10,635 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:48:13,800 - login - WARNING - Login not complete
+2017-09-26 17:48:17,882 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:48:18,884 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-26 17:48:18,945 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:48:21,976 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:48:21,976 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:48:23,988 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-26 17:48:23,988 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:48:23,988 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-26 17:48:24,003 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-26 17:48:24,326 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-26 17:48:24,395 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-26 17:48:24,396 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-26 17:48:25,442 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:48:25,442 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:48:27,445 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:48:27,445 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-26 17:48:27,445 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-26 17:48:27,799 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-26 17:48:27,873 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-26 17:48:27,873 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:48:28,931 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:48:28,931 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:48:30,935 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:48:30,937 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:48:30,939 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:48:30,941 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:48:31,648 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:40:19
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:48:31,649 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:48:31,649 - clickOnLink - INFO - Clicking on link: 111110001000002
+2017-09-26 17:48:31,691 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:48:34,727 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:48:34,727 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:48:36,731 - clickOnLink - INFO - Object 111110001000002 is not found in Repository
+2017-09-26 17:48:36,731 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:48:36,731 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: 111110001000002
+2017-09-26 17:48:36,731 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: 111110001000002
+2017-09-26 17:48:38,977 - find_auto_element - DEBUG - During search we found the object with attribute text: 111110001000002
+2017-09-26 17:48:39,072 - clickOnLink - INFO - Link 111110001000002 is selected
+2017-09-26 17:48:39,073 - clickOnTab - INFO - Clicking on tab: Details
+2017-09-26 17:48:40,123 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:48:40,127 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:48:42,132 - clickOnTab - INFO - Object Details is not found in Repository
+2017-09-26 17:48:42,135 - getObjByAlgo - DEBUG - Getting locator and locator value for tab
+2017-09-26 17:48:42,139 - getObjByAlgo - ERROR - locator and locator value not provided in config file
+2017-09-26 17:48:42,141 - clickOnTab - ERROR - No Object found for tab Details
+2017-09-26 17:49:38,356 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:49:40,226 - login - WARNING - Login not complete
+2017-09-26 17:49:43,568 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:49:44,570 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-26 17:49:45,670 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:49:45,670 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:49:47,672 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-26 17:49:47,672 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:49:47,672 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-26 17:49:47,688 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-26 17:49:48,057 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-26 17:49:48,121 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-26 17:49:48,122 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-26 17:49:49,160 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:49:49,160 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:49:51,164 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:49:51,164 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-26 17:49:51,164 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-26 17:49:51,464 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-26 17:49:51,547 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-26 17:49:51,548 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:49:52,582 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:49:52,582 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:49:54,585 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:49:54,586 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:49:54,588 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:49:54,590 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:49:54,979 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:48:14
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    see more field options
+Search
+Clear fields
+Results
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:49:54,980 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:49:54,980 - clickOnLink - INFO - Clicking on link: 111110001000002
+2017-09-26 17:49:55,539 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:49:57,638 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:50:00,690 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:50:00,690 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:50:02,691 - clickOnLink - INFO - Object 111110001000002 is not found in Repository
+2017-09-26 17:50:02,691 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:50:02,691 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: 111110001000002
+2017-09-26 17:50:02,691 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: 111110001000002
+2017-09-26 17:50:04,950 - find_auto_element - DEBUG - During search we found the object with attribute text: 111110001000002
+2017-09-26 17:50:05,061 - clickOnLink - INFO - Link 111110001000002 is selected
+2017-09-26 17:50:05,062 - verifyTextOnScreen - INFO - Verifying if text: Overview is present on page
+2017-09-26 17:50:06,120 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:50:06,122 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:50:08,128 - verifyTextOnScreen - INFO - Object Overview is not found in Repository
+2017-09-26 17:50:08,130 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:50:08,135 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Overview
+2017-09-26 17:50:08,138 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Overview
+2017-09-26 17:50:10,111 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:48:14
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Updated on 2017-09-26 17:50:06
+Device Information
+State Active.Ready Manufacturer
+None
+Device Model
+None
+IMEI 5555555555555555 IMSI 111110001000002 ICCID 12345678902468000006 Voice MSISDN 543212468023458 Linked Device No Parent Organisation PPVGE Organisation IITC_FORD Service Profile IITC_FORD_CSP_UK Created on 2017-04-12 13:51 Active.test started on 2017-04-26 17:26 Has Been Active.live No Has been Active.test Yes
+Last activity status
+Mobility
+Mobility information is being retrieved...
+Location
+No information available
+Data Usage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal interactions
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:13:28
+
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:12:13
+
+Change service profile
+Aditya.kumar@aricent.com at 2017-09-26 14:45:55
+
+Change service profile
+rh.rh@byom.de at 2017-07-17 16:01:48
+
+Change service profile
+rooohamed@gmail.com at 2017-07-17 15:41:44
+
+See more
+  < Back
+     Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:50:10,112 - verifyTextOnScreen - INFO - Static Text Found : Overview
+2017-09-26 17:50:10,112 - clickOnTab - INFO - Clicking on tab: Details
+2017-09-26 17:50:10,156 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:50:13,196 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:50:13,196 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:50:15,198 - clickOnTab - INFO - Object Details is not found in Repository
+2017-09-26 17:50:15,198 - getObjByAlgo - DEBUG - Getting locator and locator value for tab
+2017-09-26 17:50:15,198 - getObjByAlgo - ERROR - locator and locator value not provided in config file
+2017-09-26 17:50:15,198 - clickOnTab - ERROR - No Object found for tab Details
+2017-09-26 17:58:55,572 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-26 17:58:57,458 - login - WARNING - Login not complete
+2017-09-26 17:59:02,651 - login - INFO - Logged in with user: Home screen is visible
+2017-09-26 17:59:03,657 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-26 17:59:04,745 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:59:04,745 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:59:06,747 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-26 17:59:06,765 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-26 17:59:06,769 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-26 17:59:06,769 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-26 17:59:07,086 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-26 17:59:07,156 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-26 17:59:07,157 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-26 17:59:08,200 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:59:08,202 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:59:10,216 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-26 17:59:10,232 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-26 17:59:10,232 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-26 17:59:10,432 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-26 17:59:10,512 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-26 17:59:10,514 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-26 17:59:11,549 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:59:11,549 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:59:13,555 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-26 17:59:13,559 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:59:13,565 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-26 17:59:13,570 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-26 17:59:14,251 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:49:40
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:59:14,254 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-26 17:59:14,256 - clickOnLink - INFO - Clicking on link: 111110001000002
+2017-09-26 17:59:14,296 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:59:17,329 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:59:17,329 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:59:19,332 - clickOnLink - INFO - Object 111110001000002 is not found in Repository
+2017-09-26 17:59:19,348 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-26 17:59:19,348 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: 111110001000002
+2017-09-26 17:59:19,365 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: 111110001000002
+2017-09-26 17:59:21,534 - find_auto_element - DEBUG - During search we found the object with attribute text: 111110001000002
+2017-09-26 17:59:21,628 - clickOnLink - INFO - Link 111110001000002 is selected
+2017-09-26 17:59:21,630 - verifyTextOnScreen - INFO - Verifying if text: Overview is present on page
+2017-09-26 17:59:22,691 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:59:22,693 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:59:24,697 - verifyTextOnScreen - INFO - Object Overview is not found in Repository
+2017-09-26 17:59:24,700 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-26 17:59:24,704 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Overview
+2017-09-26 17:59:24,707 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Overview
+2017-09-26 17:59:26,786 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-26, 17:49:40
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Updated on 2017-09-26 17:59:22
+Device Information
+State Active.Ready Manufacturer
+None
+Device Model
+None
+IMEI 5555555555555555 IMSI 111110001000002 ICCID 12345678902468000006 Voice MSISDN 543212468023458 Linked Device No Parent Organisation PPVGE Organisation IITC_FORD Service Profile IITC_FORD_CSP_UK Created on 2017-04-12 13:51 Active.test started on 2017-04-26 17:26 Has Been Active.live No Has been Active.test Yes
+Last activity status
+Mobility
+Mobility information is being retrieved...
+Location
+No information available
+Data Usage
+There is no information to display.This may be due to:
+• No usage was recorded for the selected period
+• No SIMs are yet associated with this organisation
+• There are no SIMs that have a state that allows usage
+Since Last 30 days
+Last 24 hours
+Last 30 days
+
+
+
+Since Last 30 days
+
+
+
+Portal interactions
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:13:28
+
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:12:13
+
+Change service profile
+Aditya.kumar@aricent.com at 2017-09-26 14:45:55
+
+Change service profile
+rh.rh@byom.de at 2017-07-17 16:01:48
+
+Change service profile
+rooohamed@gmail.com at 2017-07-17 15:41:44
+
+See more
+  < Back
+     Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-26 17:59:26,790 - verifyTextOnScreen - INFO - Static Text Found : Overview
+2017-09-26 17:59:26,792 - clickOnTab - INFO - Clicking on tab: Details
+2017-09-26 17:59:26,836 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-26 17:59:29,902 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-26 17:59:29,909 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-26 17:59:31,915 - clickOnTab - INFO - Object Details is not found in Repository
+2017-09-26 17:59:31,915 - getObjByAlgo - DEBUG - Getting locator and locator value for tab
+2017-09-26 17:59:31,915 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Details
+2017-09-26 17:59:31,915 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Details
+2017-09-26 17:59:33,848 - find_auto_element - DEBUG - During search we found the object with attribute text: Details
+2017-09-26 17:59:33,959 - clickOnTab - INFO - tabDetails is clicked
+2017-09-27 13:42:28,090 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 13:42:31,078 - login - WARNING - Login not complete
+2017-09-27 13:42:33,103 - login - WARNING - Login not complete
+2017-09-27 13:42:40,603 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 13:42:41,606 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 13:42:41,702 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 13:42:44,765 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 13:42:44,765 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 13:42:46,786 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 13:42:46,801 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 13:42:46,801 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 13:42:46,817 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 13:42:47,152 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 13:42:47,210 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 13:42:47,211 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 13:42:48,271 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 13:42:48,271 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 13:42:50,273 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 13:42:50,288 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 13:42:50,288 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 13:42:50,657 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 13:42:50,736 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 13:42:50,737 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 13:42:51,790 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 13:42:51,790 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 13:42:53,800 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 13:42:53,800 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 13:42:53,800 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 13:42:53,800 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 13:42:54,543 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 13:38:43
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 13:42:54,544 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 13:42:54,544 - clickOnLink - INFO - Clicking on link: Search
+2017-09-27 13:42:54,587 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 13:42:56,632 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 13:42:59,698 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 13:42:59,698 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 13:43:01,717 - clickOnLink - INFO - Object Search is not found in Repository
+2017-09-27 13:43:01,717 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 13:43:01,717 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 13:43:01,717 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 13:43:03,503 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 13:43:04,360 - clickOnLink - INFO - Link Search is selected
+2017-09-27 14:08:17,152 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:08:18,340 - login - WARNING - Login not complete
+2017-09-27 14:08:21,661 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:08:22,664 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:08:23,771 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:08:23,771 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:08:25,774 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:08:25,774 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:08:25,789 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:08:25,789 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:08:26,089 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:08:26,153 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:08:26,154 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:08:27,206 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:08:27,206 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:08:29,208 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:08:29,208 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:08:29,208 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:08:29,492 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:08:29,571 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:08:29,571 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:08:30,635 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:08:30,637 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:08:32,643 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:08:32,646 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:08:32,650 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:08:32,653 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:08:33,452 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:00:21
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:08:33,454 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:08:33,454 - clickOnLink - INFO - Clicking on link: Search
+2017-09-27 14:08:33,516 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:08:36,583 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:08:36,583 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:08:38,585 - clickOnLink - INFO - Object Search is not found in Repository
+2017-09-27 14:08:38,585 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:08:38,585 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:08:38,585 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:08:40,519 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:08:41,330 - clickOnLink - INFO - Link Search is selected
+2017-09-27 14:10:01,171 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:10:04,225 - login - WARNING - Login not complete
+2017-09-27 14:10:08,466 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:10:09,468 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:10:10,573 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:10:10,573 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:10:12,584 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:10:12,584 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:10:12,584 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:10:12,600 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:10:12,917 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:10:12,990 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:10:12,991 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:10:14,033 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:10:14,033 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:10:16,037 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:10:16,037 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:10:16,037 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:10:16,290 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:10:16,365 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:10:16,366 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:10:17,407 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:10:17,407 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:10:19,411 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:10:19,413 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:10:19,417 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:10:19,421 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:10:20,200 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:08:17
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:10:20,201 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:10:20,202 - clickOnLink - INFO - Clicking on link: Search
+2017-09-27 14:10:20,247 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:10:23,295 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:10:23,295 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:10:25,298 - clickOnLink - INFO - Object Search is not found in Repository
+2017-09-27 14:10:25,298 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:10:25,298 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:10:25,298 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:10:27,108 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:10:27,913 - clickOnLink - INFO - Link Search is selected
+2017-09-27 14:11:10,227 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:11:11,441 - login - WARNING - Login not complete
+2017-09-27 14:11:16,620 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:11:17,623 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:11:18,741 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:11:18,741 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:11:20,747 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:11:20,747 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:11:20,747 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:11:20,763 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:11:21,079 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:11:21,142 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:11:21,143 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:11:22,200 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:11:22,203 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:11:24,221 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:11:24,221 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:11:24,221 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:11:24,468 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:11:24,540 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:11:24,540 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:11:25,622 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:11:25,622 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:11:27,628 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:11:27,632 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:11:27,637 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:11:27,640 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:11:28,332 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:10:03
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:11:28,334 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:11:28,335 - clickOnLink - INFO - Clicking on link: Search
+2017-09-27 14:11:28,380 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:11:31,421 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:11:31,421 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:11:33,424 - clickOnLink - INFO - Object Search is not found in Repository
+2017-09-27 14:11:33,424 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:11:33,424 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:11:33,424 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:11:35,242 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:11:36,034 - clickOnLink - INFO - Link Search is selected
+2017-09-27 14:12:15,739 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:12:16,968 - login - WARNING - Login not complete
+2017-09-27 14:12:19,714 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:12:20,717 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:12:21,851 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:12:21,851 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:12:23,852 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:12:23,852 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:12:23,852 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:12:23,868 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:12:24,215 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:12:24,281 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:12:24,282 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:12:25,334 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:12:25,337 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:12:27,350 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:12:27,350 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:12:27,350 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:12:27,567 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:12:27,648 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:12:27,649 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:12:28,703 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:12:28,703 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:12:30,709 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:12:30,712 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:12:30,717 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:12:30,720 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:12:31,507 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:11:10
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:12:31,509 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:12:31,509 - clickOnButton - INFO - Clicking on button: Search
+2017-09-27 14:12:31,566 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:12:34,616 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:12:34,616 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:12:36,618 - clickOnButton - INFO - Object Search is not found in Repository
+2017-09-27 14:12:36,634 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-27 14:12:36,634 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: input, value: Search
+2017-09-27 14:12:36,634 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Search
+2017-09-27 14:12:40,556 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-27 14:12:40,556 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: input, value: Search
+2017-09-27 14:12:40,556 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: input and value: Search
+2017-09-27 14:12:43,997 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-27 14:12:43,997 - clickOnButton - ERROR - No Object found for button Search
+2017-09-27 14:14:19,137 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:14:20,290 - login - WARNING - Login not complete
+2017-09-27 14:14:23,787 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:14:24,789 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:14:25,881 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:14:25,881 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:14:27,884 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:14:27,884 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:14:27,884 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:14:27,899 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:14:28,206 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:14:28,269 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:14:28,270 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:14:29,321 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:14:29,324 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:14:31,336 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:14:31,336 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:14:31,336 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:14:31,558 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:14:31,648 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:14:31,649 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:14:32,706 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:14:32,706 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:14:34,711 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:14:34,713 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:14:34,713 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:14:34,713 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:14:35,520 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:12:16
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:14:35,521 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:14:35,521 - clickOnButton - INFO - Clicking on button: Search
+2017-09-27 14:14:35,567 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:14:38,626 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:14:38,626 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:14:40,628 - clickOnButton - INFO - Object Search is not found in Repository
+2017-09-27 14:14:40,628 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-27 14:14:40,628 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: input, value: Search
+2017-09-27 14:14:40,628 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Search
+2017-09-27 14:14:44,733 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-27 14:14:44,733 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:14:44,733 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:14:46,735 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:14:47,529 - clickOnButton - INFO - ButtonSearch is clicked
+2017-09-27 14:40:04,306 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:40:05,932 - login - WARNING - Login not complete
+2017-09-27 14:40:09,595 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:40:10,598 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:40:11,700 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:11,700 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:13,704 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:40:13,704 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:40:13,704 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:40:13,719 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:40:14,057 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:40:14,152 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:40:14,153 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:40:15,197 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:15,200 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:17,208 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:40:17,208 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:40:17,208 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:40:17,446 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:40:17,527 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:40:17,527 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:40:18,563 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:18,563 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:20,570 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:40:20,573 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:40:20,577 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:40:20,580 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:40:21,320 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:36:59
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:40:21,321 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:40:21,322 - clickOnButton - INFO - Clicking on button: Search
+2017-09-27 14:40:21,371 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:40:24,404 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:24,404 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:26,411 - clickOnButton - INFO - Object Search is not found in Repository
+2017-09-27 14:40:26,411 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-27 14:40:26,411 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: input, value: Search
+2017-09-27 14:40:26,411 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Search
+2017-09-27 14:40:30,331 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-27 14:40:30,331 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:40:30,331 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:40:32,303 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:40:33,086 - clickOnButton - INFO - ButtonSearch is clicked
+2017-09-27 14:40:33,087 - clickOnLink - INFO - Clicking on link: 111110001000002
+2017-09-27 14:40:33,164 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:40:36,215 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:36,215 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:38,217 - clickOnLink - INFO - Object 111110001000002 is not found in Repository
+2017-09-27 14:40:38,217 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:40:38,217 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: 111110001000002
+2017-09-27 14:40:38,232 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: 111110001000002
+2017-09-27 14:40:39,581 - find_auto_element - DEBUG - During search we found the object with attribute text: 111110001000002
+2017-09-27 14:40:39,672 - clickOnLink - INFO - Link 111110001000002 is selected
+2017-09-27 14:40:39,673 - verifyTextOnScreen - INFO - Verifying if text: Overview is present on page
+2017-09-27 14:40:40,720 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:40,720 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:42,726 - verifyTextOnScreen - INFO - Object Overview is not found in Repository
+2017-09-27 14:40:42,729 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:40:42,734 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Overview
+2017-09-27 14:40:42,737 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Overview
+2017-09-27 14:40:45,422 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:36:59
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Updated on 2017-09-27 14:40:40
+Device Information
+State Active.Ready Manufacturer
+None
+Device Model
+None
+IMEI 5555555555555555 IMSI 111110001000002 ICCID 12345678902468000006 Voice MSISDN 543212468023458 Linked Device No Parent Organisation PPVGE Organisation IITC_FORD Service Profile IITC_FORD_CSP_UK Created on 2017-04-12 13:51 Active.test started on 2017-04-26 17:26 Has Been Active.live No Has been Active.test Yes
+Last activity status
+Mobility
+Mobility information is being retrieved...
+Location
+No information available
+Data Usage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal interactions
+  < Back
+     Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:40:45,424 - verifyTextOnScreen - INFO - Static Text Found : Overview
+2017-09-27 14:40:45,425 - clickOnTab - INFO - Clicking on tab: Operations
+2017-09-27 14:40:45,479 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:40:47,529 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:40:50,590 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:50,593 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:52,615 - clickOnTab - INFO - Object Operations is not found in Repository
+2017-09-27 14:40:52,631 - getObjByAlgo - DEBUG - Getting locator and locator value for tab
+2017-09-27 14:40:52,631 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Operations
+2017-09-27 14:40:52,631 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Operations
+2017-09-27 14:40:54,279 - find_auto_element - DEBUG - During search we found the object with attribute text: Operations
+2017-09-27 14:40:54,369 - clickOnTab - INFO - tabOperations is clicked
+2017-09-27 14:40:54,370 - clickOnLink - INFO - Clicking on link: Configure
+2017-09-27 14:40:55,418 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:40:55,419 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:40:57,427 - clickOnLink - INFO - Object Configure is not found in Repository
+2017-09-27 14:40:57,429 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:40:57,429 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Configure
+2017-09-27 14:40:57,429 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Configure
+2017-09-27 14:40:59,172 - find_auto_element - DEBUG - During search we found the object with attribute text: Configure
+2017-09-27 14:40:59,234 - clickOnLink - INFO - Link Configure is selected
+2017-09-27 14:40:59,235 - verifyTextOnScreen - INFO - Verifying if text: Change state is present on page
+2017-09-27 14:41:00,274 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:41:00,274 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:41:02,276 - verifyTextOnScreen - INFO - Object Change state is not found in Repository
+2017-09-27 14:41:02,276 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:41:02,276 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Change state
+2017-09-27 14:41:02,292 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Change state
+2017-09-27 14:41:02,530 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:36:59
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Take action
+Configure
+Troubleshoot
+  Change state
+Change state will allow you to change the state of the subscription for this device. Please consult the documentation for more information on states.
+Change...
+      Change service profile
+Change service profile allows you to move the device into a different service profile. This may enable or disable subscription services that are part of the service profile configuration.
+Change...
+      Set groups
+This operation is not available since there are no groups asssociated with this customer.
+Set...
+      Set IMEI
+This will allow you to assign a static IMEI to a device. This IMEI will then be used to check against whenever the device sets up a data session and an action may be taken upon it, depending on your settings for IMEI lock.
+Set...
+      Set Home Country
+Set home country allows you to set or change the home country of the device.
+Set...
+         < Back
+    Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:41:02,530 - verifyTextOnScreen - INFO - Static Text Found : Change state
+2017-09-27 14:42:22,397 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:42:23,551 - login - WARNING - Login not complete
+2017-09-27 14:42:26,985 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:42:27,987 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:42:28,083 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:42:31,151 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:42:31,151 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:42:33,153 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:42:33,153 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:42:33,153 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:42:33,170 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:42:33,454 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:42:33,522 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:42:33,523 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:42:34,586 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:42:34,586 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:42:36,589 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:42:36,589 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:42:36,589 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:42:36,889 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:42:36,958 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:42:36,958 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:42:38,025 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:42:38,028 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:42:40,029 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:42:40,029 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:42:40,029 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:42:40,045 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:42:40,718 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:40:13
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:42:40,719 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:42:40,720 - clickOnButton - INFO - Clicking on button: Search
+2017-09-27 14:42:40,766 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:42:43,804 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:42:43,804 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:42:45,808 - clickOnButton - INFO - Object Search is not found in Repository
+2017-09-27 14:42:45,808 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-27 14:42:45,808 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: input, value: Search
+2017-09-27 14:42:45,808 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Search
+2017-09-27 14:42:49,666 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-27 14:42:49,666 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:42:49,666 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:42:51,515 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:42:52,329 - clickOnButton - INFO - ButtonSearch is clicked
+2017-09-27 14:42:52,334 - clickOnLink - INFO - Clicking on link: 111110001000002
+2017-09-27 14:42:52,401 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:42:55,466 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:42:55,466 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:42:57,471 - clickOnLink - INFO - Object 111110001000002 is not found in Repository
+2017-09-27 14:42:57,471 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:42:57,471 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: 111110001000002
+2017-09-27 14:42:57,471 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: 111110001000002
+2017-09-27 14:42:58,672 - find_auto_element - DEBUG - During search we found the object with attribute text: 111110001000002
+2017-09-27 14:42:58,758 - clickOnLink - INFO - Link 111110001000002 is selected
+2017-09-27 14:42:58,758 - verifyTextOnScreen - INFO - Verifying if text: Overview is present on page
+2017-09-27 14:42:59,822 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:42:59,825 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:43:01,831 - verifyTextOnScreen - INFO - Object Overview is not found in Repository
+2017-09-27 14:43:01,834 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:43:01,839 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Overview
+2017-09-27 14:43:01,842 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Overview
+2017-09-27 14:43:04,622 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:40:13
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Updated on 2017-09-27 14:42:58
+Device Information
+State Active.Ready Manufacturer
+None
+Device Model
+None
+IMEI 5555555555555555 IMSI 111110001000002 ICCID 12345678902468000006 Voice MSISDN 543212468023458 Linked Device No Parent Organisation PPVGE Organisation IITC_FORD Service Profile IITC_FORD_CSP_UK Created on 2017-04-12 13:51 Active.test started on 2017-04-26 17:26 Has Been Active.live No Has been Active.test Yes
+Last activity status
+Mobility
+No information available
+Location
+No information available
+Data Usage
+There is no information to display.This may be due to:
+• No usage was recorded for the selected period
+• No SIMs are yet associated with this organisation
+• There are no SIMs that have a state that allows usage
+Since Last 30 days
+Last 24 hours
+Last 30 days
+
+
+
+Since Last 30 days
+
+
+
+Portal interactions
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:13:28
+
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:12:13
+
+Change service profile
+Aditya.kumar@aricent.com at 2017-09-26 14:45:55
+
+Change service profile
+rh.rh@byom.de at 2017-07-17 16:01:48
+
+Change service profile
+rooohamed@gmail.com at 2017-07-17 15:41:44
+
+See more
+  < Back
+     Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:43:04,623 - verifyTextOnScreen - INFO - Static Text Found : Overview
+2017-09-27 14:43:04,623 - clickOnTab - INFO - Clicking on tab: Operations
+2017-09-27 14:43:04,662 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:43:07,688 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:43:07,688 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:43:09,695 - clickOnTab - INFO - Object Operations is not found in Repository
+2017-09-27 14:43:09,695 - getObjByAlgo - DEBUG - Getting locator and locator value for tab
+2017-09-27 14:43:09,695 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Operations
+2017-09-27 14:43:09,695 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Operations
+2017-09-27 14:43:11,381 - find_auto_element - DEBUG - During search we found the object with attribute text: Operations
+2017-09-27 14:43:11,457 - clickOnTab - INFO - tabOperations is clicked
+2017-09-27 14:43:11,458 - clickOnLink - INFO - Clicking on link: Configure
+2017-09-27 14:43:12,498 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:43:12,498 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:43:14,504 - clickOnLink - INFO - Object Configure is not found in Repository
+2017-09-27 14:43:14,504 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:43:14,504 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Configure
+2017-09-27 14:43:14,504 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Configure
+2017-09-27 14:43:16,191 - find_auto_element - DEBUG - During search we found the object with attribute text: Configure
+2017-09-27 14:43:16,263 - clickOnLink - INFO - Link Configure is selected
+2017-09-27 14:43:16,264 - verifyTextOnScreen - INFO - Verifying if text: Change state is present on page
+2017-09-27 14:43:17,306 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:43:17,306 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:43:19,310 - verifyTextOnScreen - INFO - Object Change state is not found in Repository
+2017-09-27 14:43:19,313 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:43:19,318 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Change state
+2017-09-27 14:43:19,321 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Change state
+2017-09-27 14:43:19,566 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:40:13
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Take action
+Configure
+Troubleshoot
+  Change state
+Change state will allow you to change the state of the subscription for this device. Please consult the documentation for more information on states.
+Change...
+      Change service profile
+Change service profile allows you to move the device into a different service profile. This may enable or disable subscription services that are part of the service profile configuration.
+Change...
+      Set groups
+This operation is not available since there are no groups asssociated with this customer.
+Set...
+      Set IMEI
+This will allow you to assign a static IMEI to a device. This IMEI will then be used to check against whenever the device sets up a data session and an action may be taken upon it, depending on your settings for IMEI lock.
+Set...
+      Set Home Country
+Set home country allows you to set or change the home country of the device.
+Set...
+         < Back
+    Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:43:19,566 - verifyTextOnScreen - INFO - Static Text Found : Change state
+2017-09-27 14:43:19,566 - clickOnButton - INFO - Clicking on button: Change...
+2017-09-27 14:43:20,634 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:43:20,634 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:43:22,636 - clickOnButton - INFO - Object Change... is not found in Repository
+2017-09-27 14:43:22,636 - getObjByAlgoOnPosition - DEBUG - Getting locator and locator value for button
+2017-09-27 14:43:22,636 - getObjByAlgoOnPosition - INFO - LOCATOR: css, locatorvalue: input, value: Change...
+2017-09-27 14:43:22,636 - find_auto_element_on_position - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Change...
+2017-09-27 14:43:24,322 - find_auto_element_on_position - ERROR - Object with given value Change... not found
+2017-09-27 14:43:24,322 - getObjByAlgoOnPosition - INFO - LOCATOR: tag_name, locatorvalue: a, value: Change...
+2017-09-27 14:43:24,322 - find_auto_element_on_position - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Change...
+2017-09-27 14:43:26,085 - find_auto_element_on_position - DEBUG - During search we found the object with attribute text: Change...
+2017-09-27 14:43:26,173 - clickOnButton - INFO - ButtonChange... is clicked
+2017-09-27 14:47:09,293 - openUrl - INFO - Opening URL https://m2mportal-stage.vodafone.com/m2mscp/
+2017-09-27 14:47:10,519 - login - WARNING - Login not complete
+2017-09-27 14:47:13,820 - login - INFO - Logged in with user: Home screen is visible
+2017-09-27 14:47:14,822 - clickOnMenu - INFO - Clicking on menu: Devices
+2017-09-27 14:47:15,930 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:15,930 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:17,933 - clickOnMenu - INFO - Object Devices is not found in Repository
+2017-09-27 14:47:17,933 - getObjByAlgo - DEBUG - Getting locator and locator value for menu
+2017-09-27 14:47:17,933 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Devices
+2017-09-27 14:47:17,948 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Devices
+2017-09-27 14:47:18,264 - find_auto_element - DEBUG - During search we found the object with attribute text: Devices
+2017-09-27 14:47:18,322 - clickOnMenu - INFO - MenuDevices is clicked
+2017-09-27 14:47:18,323 - clickOnSubmeu - INFO - Clicking on submenu: All devices
+2017-09-27 14:47:19,365 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:19,365 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:21,370 - getObjByAlgo - DEBUG - Getting locator and locator value for submenu
+2017-09-27 14:47:21,370 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: All devices
+2017-09-27 14:47:21,370 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: All devices
+2017-09-27 14:47:21,654 - find_auto_element - DEBUG - During search we found the object with attribute text: All devices
+2017-09-27 14:47:21,736 - clickOnSubmenu - INFO - Sub-menuAll devices is clicked
+2017-09-27 14:47:21,737 - verifyTextOnScreen - INFO - Verifying if text: Results is present on page
+2017-09-27 14:47:22,781 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:22,781 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:24,788 - verifyTextOnScreen - INFO - Object Results is not found in Repository
+2017-09-27 14:47:24,791 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:47:24,795 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Results
+2017-09-27 14:47:24,798 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Results
+2017-09-27 14:47:25,568 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:42:22
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+  Links
+Tasks
+  Devices
+Search
+Organisation
+State
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       Active.Live
+Active.Ready
+Active.Sleep
+Active.Standby
+Active.Suspend
+Active.SuspendRegulatory
+Active.Test
+Inactive
+Inactive.Stopped
+Inactive.Transformed
+Migrated from other GDSP Environment
+Migrated to other GDSP Environment
+Not provisioned
+Terminated
+      
+     
+    
+    IMSI
+ICCID
+Linked Device
+No option selected
+ 
+     
+    
+     
+      
+       No option selected
+      
+     
+    
+    
+     
+     
+      
+      
+       No
+Yes
+      
+     
+    
+    IMEI
+eCall mode
+All
+ 
+     
+    
+     
+      
+       All
+      
+     
+    
+    
+     
+     
+      
+      
+       No eCall support
+eCall capable
+eCall only
+eCall plus
+      
+     
+    
+    Search
+Clear fields
+Results
+Location
+Tools
+Operations
+Export
+
+IMSI State Organisation Parent Organisation Service Profile eCall mode
+Show
+10
+20
+50
+100
+per page
+PreviousNext
+       Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:47:25,569 - verifyTextOnScreen - INFO - Static Text Found : Results
+2017-09-27 14:47:25,569 - clickOnButton - INFO - Clicking on button: Search
+2017-09-27 14:47:25,626 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:47:28,689 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:28,692 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:30,711 - clickOnButton - INFO - Object Search is not found in Repository
+2017-09-27 14:47:30,711 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-27 14:47:30,711 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: input, value: Search
+2017-09-27 14:47:30,711 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Search
+2017-09-27 14:47:34,777 - find_auto_element - ERROR - Object with given value Search not found
+2017-09-27 14:47:34,777 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Search
+2017-09-27 14:47:34,777 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Search
+2017-09-27 14:47:36,596 - find_auto_element - DEBUG - During search we found the object with attribute text: Search
+2017-09-27 14:47:37,371 - clickOnButton - INFO - ButtonSearch is clicked
+2017-09-27 14:47:37,371 - clickOnLink - INFO - Clicking on link: 111110001000002
+2017-09-27 14:47:37,448 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:47:40,504 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:40,504 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:42,506 - clickOnLink - INFO - Object 111110001000002 is not found in Repository
+2017-09-27 14:47:42,506 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:47:42,506 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: 111110001000002
+2017-09-27 14:47:42,506 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: 111110001000002
+2017-09-27 14:47:43,954 - find_auto_element - DEBUG - During search we found the object with attribute text: 111110001000002
+2017-09-27 14:47:44,048 - clickOnLink - INFO - Link 111110001000002 is selected
+2017-09-27 14:47:44,049 - verifyTextOnScreen - INFO - Verifying if text: Overview is present on page
+2017-09-27 14:47:45,112 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:45,114 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:47,120 - verifyTextOnScreen - INFO - Object Overview is not found in Repository
+2017-09-27 14:47:47,123 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:47:47,127 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Overview
+2017-09-27 14:47:47,131 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Overview
+2017-09-27 14:47:48,509 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:42:22
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Updated on 2017-09-27 14:47:44
+Device Information
+State Active.Ready Manufacturer
+None
+Device Model
+None
+IMEI 5555555555555555 IMSI 111110001000002 ICCID 12345678902468000006 Voice MSISDN 543212468023458 Linked Device No Parent Organisation PPVGE Organisation IITC_FORD Service Profile IITC_FORD_CSP_UK Created on 2017-04-12 13:51 Active.test started on 2017-04-26 17:26 Has Been Active.live No Has been Active.test Yes
+Last activity status
+Mobility
+Mobility information is being retrieved...
+Location
+No information available
+Data Usage
+There is no information to display.This may be due to:
+• No usage was recorded for the selected period
+• No SIMs are yet associated with this organisation
+• There are no SIMs that have a state that allows usage
+Since Last 30 days
+Last 24 hours
+Last 30 days
+
+
+
+Since Last 30 days
+
+
+
+Portal interactions
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:13:28
+
+Set IMEI
+Aditya.kumar@aricent.com at 2017-09-26 17:12:13
+
+Change service profile
+Aditya.kumar@aricent.com at 2017-09-26 14:45:55
+
+Change service profile
+rh.rh@byom.de at 2017-07-17 16:01:48
+
+Change service profile
+rooohamed@gmail.com at 2017-07-17 15:41:44
+
+See more
+  < Back
+     Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:47:48,511 - verifyTextOnScreen - INFO - Static Text Found : Overview
+2017-09-27 14:47:48,511 - clickOnTab - INFO - Clicking on tab: Operations
+2017-09-27 14:47:48,552 - ifpageloaded - DEBUG - Page is still loading, so waiting for page to load
+2017-09-27 14:47:51,608 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:51,608 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:53,619 - clickOnTab - INFO - Object Operations is not found in Repository
+2017-09-27 14:47:53,620 - getObjByAlgo - DEBUG - Getting locator and locator value for tab
+2017-09-27 14:47:53,621 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Operations
+2017-09-27 14:47:53,622 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Operations
+2017-09-27 14:47:55,300 - find_auto_element - DEBUG - During search we found the object with attribute text: Operations
+2017-09-27 14:47:55,385 - clickOnTab - INFO - tabOperations is clicked
+2017-09-27 14:47:55,385 - clickOnLink - INFO - Clicking on link: Configure
+2017-09-27 14:47:56,429 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:47:56,432 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:47:58,447 - clickOnLink - INFO - Object Configure is not found in Repository
+2017-09-27 14:47:58,447 - getObjByAlgo - DEBUG - Getting locator and locator value for link
+2017-09-27 14:47:58,447 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Configure
+2017-09-27 14:47:58,447 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Configure
+2017-09-27 14:48:00,133 - find_auto_element - DEBUG - During search we found the object with attribute text: Configure
+2017-09-27 14:48:00,191 - clickOnLink - INFO - Link Configure is selected
+2017-09-27 14:48:00,191 - verifyTextOnScreen - INFO - Verifying if text: Change state is present on page
+2017-09-27 14:48:01,252 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:48:01,252 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:48:03,261 - verifyTextOnScreen - INFO - Object Change state is not found in Repository
+2017-09-27 14:48:03,261 - getObjByAlgo - DEBUG - Getting locator and locator value for statictext
+2017-09-27 14:48:03,261 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: div, value: Change state
+2017-09-27 14:48:03,277 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: div and value: Change state
+2017-09-27 14:48:03,477 - find_auto_element - DEBUG - During search we found the object with attribute text: M2M
+Aditya Kumar
+Last login: 2017-09-27, 14:42:22
+PPVGE as Operator Administrator
+Logout
+      Devices
+Store
+Administration
+Tools
+Support
+Reporting
+ < Back
+111110001000002
+Device
+Links
+Tasks
+  Overview
+Details
+Operations
+History
+  Take action
+Configure
+Troubleshoot
+  Change state
+Change state will allow you to change the state of the subscription for this device. Please consult the documentation for more information on states.
+Change...
+      Change service profile
+Change service profile allows you to move the device into a different service profile. This may enable or disable subscription services that are part of the service profile configuration.
+Change...
+      Set groups
+This operation is not available since there are no groups asssociated with this customer.
+Set...
+      Set IMEI
+This will allow you to assign a static IMEI to a device. This IMEI will then be used to check against whenever the device sets up a data session and an action may be taken upon it, depending on your settings for IMEI lock.
+Set...
+      Set Home Country
+Set home country allows you to set or change the home country of the device.
+Set...
+         < Back
+    Copyright © 2017 Vodafone Group. M2M portal Release 2.4 [R2.4.0P21]   |  Privacy policy
+2017-09-27 14:48:03,477 - verifyTextOnScreen - INFO - Static Text Found : Change state
+2017-09-27 14:48:03,477 - clickOnButton - INFO - Clicking on button: Change...
+2017-09-27 14:48:04,510 - ifpageloaded - DEBUG - Exception in page loading
+2017-09-27 14:48:04,510 - ifpageloaded - DEBUG - Page loading is complete
+2017-09-27 14:48:06,511 - clickOnButton - INFO - Object Change... is not found in Repository
+2017-09-27 14:48:06,511 - getObjByAlgo - DEBUG - Getting locator and locator value for button
+2017-09-27 14:48:06,511 - getObjByAlgo - INFO - LOCATOR: css, locatorvalue: input, value: Change...
+2017-09-27 14:48:06,511 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: cssLOCATOR VALUE: input and value: Change...
+2017-09-27 14:48:08,898 - find_auto_element - ERROR - Object with given value Change... not found
+2017-09-27 14:48:08,913 - getObjByAlgo - INFO - LOCATOR: tag_name, locatorvalue: a, value: Change...
+2017-09-27 14:48:08,913 - find_auto_element - DEBUG - Searching for desired element with values LOCATOR: tag_nameLOCATOR VALUE: a and value: Change...
+2017-09-27 14:48:10,652 - find_auto_element - DEBUG - During search we found the object with attribute text: Change...
+2017-09-27 14:48:10,726 - clickOnButton - INFO - ButtonChange... is clicked
